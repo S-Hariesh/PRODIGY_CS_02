@@ -1,4 +1,4 @@
-# PRODIGY_CS_02
+#Image Pixel Manipulation
 **Title**
 
 Simple Image Pixel Manipulation
