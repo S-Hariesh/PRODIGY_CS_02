@@ -1,5 +1,5 @@
-#Image Pixel Manipulation
-**Title**
+
+**Image Pixel Manipulation**
 
 Simple Image Pixel Manipulation
 
